@@ -44,5 +44,5 @@ The project focuses on reliable event processing, idempotency, auditing, retries
 ## 🤝 Let's Connect
 
 * Portfolio: [apurvtripathi.com](https://apurvtripathi.com)
-* LinkedIn: Add your LinkedIn URL here
-* Email: Add your current professional email here
+* LinkedIn: [Link](https://www.linkedin.com/in/apurv-tripathi-95a655114/)
+* Email: apurvtripathi005@gmail.com
