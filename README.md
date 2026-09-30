@@ -1,48 +1,47 @@
 # Hi, I'm Apurv 👋
 
-Senior Software Engineer with **5+ years of experience** building scalable enterprise applications using **React, Angular, TypeScript, Java, and Spring Boot**.
+**Senior Software Engineer** with 5+ years of experience building enterprise web applications across aviation, financial services, and consulting.
 
-I am currently working at **IBM**, contributing to large-scale platforms for **Air Canada Aeroplan, Air Canada Cargo, CIAM, and PNC Bank**. My experience includes frontend architecture, reusable component systems, API integrations, performance optimization, accessibility, testing, and CI/CD.
+I specialize in **React, TypeScript, Angular, Java, and Spring Boot**, with experience designing scalable frontend architectures, integrating APIs, improving performance and accessibility, and building reliable production systems.
 
-I’m also building AI-powered applications using **LLMs, Retrieval-Augmented Generation (RAG), vector databases, embeddings, prompt engineering, and streaming AI interfaces**.
+More recently, I've been exploring **AI application engineering**, including LLM-powered applications, RAG, embeddings, vector search, and streaming AI interfaces.
 
-## 🚀 Currently Building
+## 🚀 Featured Project
 
 ### StreamBill
 
-An event-driven billing and usage-processing platform built with:
+An event-driven billing and usage-processing platform built with **React, TypeScript, Spring Boot, Kafka, PostgreSQL, and Docker**.
 
-* React and TypeScript
-* Java and Spring Boot
-* Apache Kafka
-* PostgreSQL
-* Docker
+Designed around production-oriented concepts including:
 
-The project focuses on reliable event processing, idempotency, auditing, retries, dead-letter handling, and real-time billing insights.
+- Event-driven architecture
+- Idempotent processing
+- Retry and failure handling
+- Auditable transaction flows
+- Real-time usage aggregation
+- Containerized local development
 
-## 🛠️ Core Technologies
+## 🛠️ Tech Stack
 
-**Frontend:** React, Angular, Next.js, TypeScript, JavaScript, Redux, NgRx, RxJS, HTML, CSS, SCSS
+**Frontend**  
+React · TypeScript · Angular · Next.js · Redux · NgRx · RxJS
 
-**Backend:** Java, Spring Boot, Node.js, Express.js, REST APIs, GraphQL
+**Backend**  
+Java · Spring Boot · Node.js · REST · GraphQL
 
-**AI Engineering:** LLMs, Retrieval-Augmented Generation, embeddings, vector databases, prompt engineering, AI agents, streaming responses
+**Data & Infrastructure**  
+PostgreSQL · Kafka · Docker · AWS · Jenkins · GitHub Actions
 
-**Data and Infrastructure:** PostgreSQL, Apache Kafka, Docker, AWS, Jenkins, GitHub Actions
+**Testing**  
+Jest · React Testing Library · Jasmine · Karma · JUnit · Cypress
 
-**Testing:** Jest, Jasmine, Karma, JUnit, Test-Driven Development
+**AI Engineering**  
+LLMs · RAG · Embeddings · Vector Search · Prompt Engineering · AI Agents
 
-## 🎯 Engineering Interests
+## 🔭 Currently Exploring
 
-* Frontend and full-stack architecture
-* AI-powered applications, LLMs and RAG systems
-* Event-driven and distributed systems
-* Performance optimization
-* Accessible user interfaces
-* Developer experience and reusable design systems
+I'm currently focused on building production-quality applications at the intersection of **modern frontend engineering, distributed systems, and AI**.
 
-## 🤝 Let's Connect
+## 🤝 Connect
 
-* Portfolio: [apurvtripathi.com](https://apurvtripathi.com)
-* LinkedIn: [Link](https://www.linkedin.com/in/apurv-tripathi-95a655114/)
-* Email: apurvtripathi5397@gmail.com
+[LinkedIn](https://www.linkedin.com/in/apurv-tripathi-95a655114/) · [Email](mailto:apurvtripathi5397@gmail.com)
